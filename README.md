@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Vikrant%20Singh&fontColor=e8eef2&fontSize=42&fontAlignY=32&desc=Associate%20Data%20Scientist%20%C2%B7%20builds%20small%2C%20sharp%20tools&descAlignY=54&descSize=16" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Vikrant%20Singh&fontColor=e8eef2&fontSize=42&fontAlignY=32&desc=Associate%20Data%20Scientist&descAlignY=54&descSize=17" alt="" />
 </p>
 
-### Hey 👋
+### Hi, I'm Vikrant 👋
 
-I'm an associate data scientist at [Solytics Partners](https://github.com/Nuva-Org).
+Associate Data Scientist at [Solytics Partners](https://github.com/Nuva-Org), based in India.
 
-Outside that, I build small tools that kill repetitive work — usually because something annoyed me first. A terminal that wouldn't show me what my agents were doing. An attendance portal I was tired of clicking. A VPN toggle that didn't exist for my bar. They all started as a one-evening fix and grew from there.
+I work mostly with Python and Rust, across data work, backend services and developer tooling. In my own time I build small utilities that solve problems I run into — terminal apps, automation scripts and Linux desktop tweaks. Most of the repos here started that way.
 
-Mostly **Python** and **Rust**, on **Arch Linux + Hyprland**.
+Daily driver is Arch Linux with Hyprland.
 
 ---
 
